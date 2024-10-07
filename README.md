@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hello, me is DomTheFlom1
+me only know <b>Arduino C</b> because i own Arduino Micro and Arduino Uno,
 
-<!--
-**DomTheFlom1/DomTheFlom1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+me trying to learn Java,
 
-Here are some ideas to get you started:
+Me contributed to nothing really,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also create bash scripts for my minecraft bungeecoord network,
+
+and me have practically no friends :D
+
+that's it
+
+
