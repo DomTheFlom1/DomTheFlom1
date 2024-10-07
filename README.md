@@ -5,7 +5,9 @@ me trying to learn Java,
 
 Me contributed to nothing really,
 
-I also create bash scripts for my minecraft bungeecoord network,
+I also create <b>Bash</b> scripts for my minecraft bungeecoord network,
+
+i have some Experience with Linux
 
 and me have practically no friends :D
 
